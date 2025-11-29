@@ -1,0 +1,1276 @@
+[COORD] BEFORE READ exam file 'exam1.txt' (index=0)
+[COORD] AFTER  READ loaded exam for student 0001 (index=0, gen=1)
+[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, G
+'
+[TA 3] Checking rubric...
+[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, G
+'
+[TA 3] BEFORE READ rubric[0] = '1, G
+'
+[TA 2] AFTER  READ rubric[0] = '1, G
+'
+[TA 2] BEFORE READ rubric[1] = '2, D
+'
+[TA 3] AFTER  READ rubric[0] = '1, G
+'
+[TA 3] BEFORE READ rubric[1] = '2, D
+'
+[TA 1] AFTER  READ rubric[0] = '1, G
+'
+[TA 1] BEFORE READ rubric[1] = '2, D
+'
+[TA 2] AFTER  READ rubric[1] = '2, D
+'
+[TA 2] BEFORE READ rubric[2] = '3, M
+'
+[TA 1] AFTER  READ rubric[1] = '2, D
+'
+[TA 1] BEFORE READ rubric[2] = '3, M
+'
+[TA 3] AFTER  READ rubric[1] = '2, D
+'
+[TA 3] BEFORE READ rubric[2] = '3, M
+'
+[TA 2] AFTER  READ rubric[2] = '3, M
+'
+[TA 2] BEFORE READ rubric[3] = '4, K
+'
+[TA 1] AFTER  READ rubric[2] = '3, M
+'
+[TA 1] BEFORE READ rubric[3] = '4, K
+'
+[TA 3] AFTER  READ rubric[2] = '3, M
+'
+[TA 3] BEFORE READ rubric[3] = '4, K
+'
+[TA 2] BEFORE WRITE rubric[4] change K -> L
+[TA 2] AFTER  WRITE rubric[4] saved
+[TA 2] AFTER  READ rubric[3] = '4, L
+'
+[TA 2] BEFORE READ rubric[4] = '5, B
+'
+[TA 1] AFTER  READ rubric[3] = '4, L
+'
+[TA 1] BEFORE READ rubric[4] = '5, B
+'
+[TA 3] AFTER  READ rubric[3] = '4, L
+'
+[TA 3] BEFORE READ rubric[4] = '5, B
+'
+[TA 2] AFTER  READ rubric[4] = '5, B
+'
+[TA 2] BEFORE READ marked[0] = 0
+[TA 2] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 1] AFTER  READ rubric[4] = '5, B
+'
+[TA 1] BEFORE READ marked[0] = 1
+[TA 1] BEFORE READ marked[1] = 0
+[TA 1] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 3] AFTER  READ rubric[4] = '5, B
+'
+[TA 3] BEFORE READ marked[0] = 1
+[TA 3] BEFORE READ marked[1] = 1
+[TA 3] BEFORE READ marked[2] = 0
+[TA 3] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 3] Marked question 3 for student 0001[TA 3] BEFORE READ marked[3] = 0
+[TA 3] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 1] Marked question 2 for student 0001[TA 1] BEFORE READ marked[2] = 1
+[TA 1] BEFORE READ marked[3] = 1
+[TA 1] BEFORE READ marked[4] = 0
+[TA 1] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 2] Marked question 1 for student 0001[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 1
+[TA 2] BEFORE READ marked[3] = 1
+[TA 2] BEFORE READ marked[4] = 1
+[TA 2] BEFORE loading next exam (index=0)
+[COORD] BEFORE READ exam file 'exam2.txt' (index=1)
+[COORD] AFTER  READ loaded exam for student 1019 (index=1, gen=2)
+[TA 2] AFTER  loading exam (index=1)
+[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, G
+'
+[TA 2] AFTER  READ rubric[0] = '1, G
+'
+[TA 2] BEFORE READ rubric[1] = '2, D
+'
+[TA 3] Marked question 4 for student 1019[TA 3] BEFORE READ marked[4] = 0
+[TA 3] AFTER  WRITE marked[4] = 1, remaining=4
+[TA 2] AFTER  READ rubric[1] = '2, D
+'
+[TA 2] BEFORE READ rubric[2] = '3, M
+'
+[TA 2] AFTER  READ rubric[2] = '3, M
+'
+[TA 2] BEFORE READ rubric[3] = '4, L
+'
+[TA 2] AFTER  READ rubric[3] = '4, L
+'
+[TA 2] BEFORE READ rubric[4] = '5, B
+'
+[TA 2] AFTER  READ rubric[4] = '5, B
+'
+[TA 2] BEFORE READ marked[0] = 0
+[TA 2] AFTER  WRITE marked[0] = 1, remaining=3
+[TA 2] Marked question 1 for student 1019[TA 2] BEFORE READ marked[1] = 0
+[TA 2] AFTER  WRITE marked[1] = 1, remaining=2
+[TA 2] Marked question 2 for student 1019[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=1
+[TA 2] Marked question 3 for student 1019[TA 2] BEFORE READ marked[3] = 0
+[TA 2] AFTER  WRITE marked[3] = 1, remaining=0
+[TA 2] Marked question 4 for student 1019[TA 2] BEFORE READ marked[4] = 1
+[TA 2] BEFORE loading next exam (index=1)
+[COORD] BEFORE READ exam file 'exam3.txt' (index=2)
+[COORD] AFTER  READ loaded exam for student 1120 (index=2, gen=3)
+[TA 2] AFTER  loading exam (index=2)
+[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, G
+'
+[TA 1] Marked question 5 for student 1019[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, G
+'
+[TA 3] Marked question 5 for student 1019[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, G
+'
+[TA 3] AFTER  READ rubric[0] = '1, G
+'
+[TA 3] BEFORE READ rubric[1] = '2, D
+'
+[TA 1] AFTER  READ rubric[0] = '1, G
+'
+[TA 1] BEFORE READ rubric[1] = '2, D
+'
+[TA 2] AFTER  READ rubric[0] = '1, G
+'
+[TA 2] BEFORE READ rubric[1] = '2, D
+'
+[TA 3] AFTER  READ rubric[1] = '2, D
+'
+[TA 3] BEFORE READ rubric[2] = '3, M
+'
+[TA 1] AFTER  READ rubric[1] = '2, D
+'
+[TA 1] BEFORE READ rubric[2] = '3, M
+'
+[TA 2] AFTER  READ rubric[1] = '2, D
+'
+[TA 2] BEFORE READ rubric[2] = '3, M
+'
+[TA 1] AFTER  READ rubric[2] = '3, M
+'
+[TA 1] BEFORE READ rubric[3] = '4, L
+'
+[TA 3] BEFORE WRITE rubric[3] change M -> N
+[TA 3] AFTER  WRITE rubric[3] saved
+[TA 3] AFTER  READ rubric[2] = '3, N
+'
+[TA 3] BEFORE READ rubric[3] = '4, L
+'
+[TA 1] AFTER  READ rubric[3] = '4, L
+'
+[TA 1] BEFORE READ rubric[4] = '5, B
+'
+[TA 2] AFTER  READ rubric[2] = '3, N
+'
+[TA 2] BEFORE READ rubric[3] = '4, L
+'
+[TA 3] AFTER  READ rubric[3] = '4, L
+'
+[TA 3] BEFORE READ rubric[4] = '5, B
+'
+[TA 1] AFTER  READ rubric[4] = '5, B
+'
+[TA 1] BEFORE READ marked[0] = 0
+[TA 1] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 2] AFTER  READ rubric[3] = '4, L
+'
+[TA 2] BEFORE READ rubric[4] = '5, B
+'
+[TA 3] AFTER  READ rubric[4] = '5, B
+'
+[TA 3] BEFORE READ marked[0] = 1
+[TA 3] BEFORE READ marked[1] = 0
+[TA 3] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 2] AFTER  READ rubric[4] = '5, B
+'
+[TA 2] BEFORE READ marked[0] = 1
+[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 1] Marked question 1 for student 1120[TA 1] BEFORE READ marked[1] = 1
+[TA 1] BEFORE READ marked[2] = 1
+[TA 1] BEFORE READ marked[3] = 0
+[TA 1] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 3] Marked question 2 for student 1120[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 1
+[TA 3] BEFORE READ marked[4] = 0
+[TA 3] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 1] Marked question 4 for student 1120[TA 1] BEFORE READ marked[4] = 1
+[TA 1] BEFORE loading next exam (index=2)
+[COORD] BEFORE READ exam file 'exam4.txt' (index=3)
+[COORD] AFTER  READ loaded exam for student 1430 (index=3, gen=4)
+[TA 1] AFTER  loading exam (index=3)
+[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, G
+'
+[TA 2] Marked question 3 for student 1430[TA 2] BEFORE READ marked[3] = 0
+[TA 2] AFTER  WRITE marked[3] = 1, remaining=4
+[TA 1] AFTER  READ rubric[0] = '1, G
+'
+[TA 1] BEFORE READ rubric[1] = '2, D
+'
+[TA 1] AFTER  READ rubric[1] = '2, D
+'
+[TA 1] BEFORE READ rubric[2] = '3, N
+'
+[TA 2] Marked question 4 for student 1430[TA 2] BEFORE READ marked[4] = 0
+[TA 2] AFTER  WRITE marked[4] = 1, remaining=3
+[TA 1] AFTER  READ rubric[2] = '3, N
+'
+[TA 1] BEFORE READ rubric[3] = '4, L
+'
+[TA 1] AFTER  READ rubric[3] = '4, L
+'
+[TA 1] BEFORE READ rubric[4] = '5, B
+'
+[TA 1] AFTER  READ rubric[4] = '5, B
+'
+[TA 1] BEFORE READ marked[0] = 0
+[TA 1] AFTER  WRITE marked[0] = 1, remaining=2
+[TA 1] Marked question 1 for student 1430[TA 1] BEFORE READ marked[1] = 0
+[TA 1] AFTER  WRITE marked[1] = 1, remaining=1
+[TA 1] Marked question 2 for student 1430[TA 1] BEFORE READ marked[2] = 0
+[TA 1] AFTER  WRITE marked[2] = 1, remaining=0
+[TA 1] Marked question 3 for student 1430[TA 1] BEFORE READ marked[3] = 1
+[TA 1] BEFORE READ marked[4] = 1
+[TA 1] BEFORE loading next exam (index=3)
+[COORD] BEFORE READ exam file 'exam5.txt' (index=4)
+[COORD] AFTER  READ loaded exam for student 1550 (index=4, gen=5)
+[TA 1] AFTER  loading exam (index=4)
+[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, G
+'
+[TA 3] Marked question 5 for student 1430[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, G
+'
+[TA 2] Marked question 5 for student 1430[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, G
+'
+[TA 1] BEFORE WRITE rubric[1] change G -> H
+[TA 1] AFTER  WRITE rubric[1] saved
+[TA 1] AFTER  READ rubric[0] = '1, H
+'
+[TA 1] BEFORE READ rubric[1] = '2, D
+'
+[TA 3] AFTER  READ rubric[0] = '1, H
+'
+[TA 3] BEFORE READ rubric[1] = '2, D
+'
+[TA 2] AFTER  READ rubric[0] = '1, H
+'
+[TA 2] BEFORE READ rubric[1] = '2, D
+'
+[TA 2] BEFORE WRITE rubric[2] change D -> E
+[TA 2] AFTER  WRITE rubric[2] saved
+[TA 2] AFTER  READ rubric[1] = '2, E
+'
+[TA 2] BEFORE READ rubric[2] = '3, N
+'
+[TA 3] AFTER  READ rubric[1] = '2, E
+'
+[TA 3] BEFORE READ rubric[2] = '3, N
+'
+[TA 1] AFTER  READ rubric[1] = '2, E
+'
+[TA 1] BEFORE READ rubric[2] = '3, N
+'
+[TA 2] AFTER  READ rubric[2] = '3, N
+'
+[TA 2] BEFORE READ rubric[3] = '4, L
+'
+[TA 3] AFTER  READ rubric[2] = '3, N
+'
+[TA 3] BEFORE READ rubric[3] = '4, L
+'
+[TA 1] AFTER  READ rubric[2] = '3, N
+'
+[TA 1] BEFORE READ rubric[3] = '4, L
+'
+[TA 2] AFTER  READ rubric[3] = '4, L
+'
+[TA 2] BEFORE READ rubric[4] = '5, B
+'
+[TA 1] BEFORE WRITE rubric[4] change L -> M
+[TA 1] AFTER  WRITE rubric[4] saved
+[TA 1] AFTER  READ rubric[3] = '4, M
+'
+[TA 1] BEFORE READ rubric[4] = '5, B
+'
+[TA 3] BEFORE WRITE rubric[4] change M -> N
+[TA 3] AFTER  WRITE rubric[4] saved
+[TA 3] AFTER  READ rubric[3] = '4, N
+'
+[TA 3] BEFORE READ rubric[4] = '5, B
+'
+[TA 2] AFTER  READ rubric[4] = '5, B
+'
+[TA 2] BEFORE READ marked[0] = 0
+[TA 2] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 3] AFTER  READ rubric[4] = '5, B
+'
+[TA 3] BEFORE READ marked[0] = 1
+[TA 3] BEFORE READ marked[1] = 0
+[TA 3] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 1] AFTER  READ rubric[4] = '5, B
+'
+[TA 1] BEFORE READ marked[0] = 1
+[TA 1] BEFORE READ marked[1] = 1
+[TA 1] BEFORE READ marked[2] = 0
+[TA 1] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 1] Marked question 3 for student 1550[TA 1] BEFORE READ marked[3] = 0
+[TA 1] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 3] Marked question 2 for student 1550[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 1
+[TA 3] BEFORE READ marked[4] = 0
+[TA 3] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 2] Marked question 1 for student 1550[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 1
+[TA 2] BEFORE READ marked[3] = 1
+[TA 2] BEFORE READ marked[4] = 1
+[TA 2] BEFORE loading next exam (index=4)
+[COORD] BEFORE READ exam file 'exam6.txt' (index=5)
+[COORD] AFTER  READ loaded exam for student 1640 (index=5, gen=6)
+[TA 2] AFTER  loading exam (index=5)
+[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, H
+'
+[TA 2] AFTER  READ rubric[0] = '1, H
+'
+[TA 2] BEFORE READ rubric[1] = '2, E
+'
+[TA 2] AFTER  READ rubric[1] = '2, E
+'
+[TA 2] BEFORE READ rubric[2] = '3, N
+'
+[TA 1] Marked question 4 for student 1640[TA 1] BEFORE READ marked[4] = 0
+[TA 1] AFTER  WRITE marked[4] = 1, remaining=4
+[TA 2] AFTER  READ rubric[2] = '3, N
+'
+[TA 2] BEFORE READ rubric[3] = '4, N
+'
+[TA 2] BEFORE WRITE rubric[4] change N -> O
+[TA 2] AFTER  WRITE rubric[4] saved
+[TA 2] AFTER  READ rubric[3] = '4, O
+'
+[TA 2] BEFORE READ rubric[4] = '5, B
+'
+[TA 2] AFTER  READ rubric[4] = '5, B
+'
+[TA 2] BEFORE READ marked[0] = 0
+[TA 2] AFTER  WRITE marked[0] = 1, remaining=3
+[TA 2] Marked question 1 for student 1640[TA 2] BEFORE READ marked[1] = 0
+[TA 2] AFTER  WRITE marked[1] = 1, remaining=2
+[TA 2] Marked question 2 for student 1640[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=1
+[TA 2] Marked question 3 for student 1640[TA 2] BEFORE READ marked[3] = 0
+[TA 2] AFTER  WRITE marked[3] = 1, remaining=0
+[TA 2] Marked question 4 for student 1640[TA 2] BEFORE READ marked[4] = 1
+[TA 2] BEFORE loading next exam (index=5)
+[COORD] BEFORE READ exam file 'exam7.txt' (index=6)
+[COORD] AFTER  READ loaded exam for student 1750 (index=6, gen=7)
+[TA 2] AFTER  loading exam (index=6)
+[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, H
+'
+[TA 3] Marked question 5 for student 1640[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, H
+'
+[TA 1] Marked question 5 for student 1640[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, H
+'
+[TA 1] AFTER  READ rubric[0] = '1, H
+'
+[TA 1] BEFORE READ rubric[1] = '2, E
+'
+[TA 2] AFTER  READ rubric[0] = '1, H
+'
+[TA 2] BEFORE READ rubric[1] = '2, E
+'
+[TA 3] AFTER  READ rubric[0] = '1, H
+'
+[TA 3] BEFORE READ rubric[1] = '2, E
+'
+[TA 3] AFTER  READ rubric[1] = '2, E
+'
+[TA 3] BEFORE READ rubric[2] = '3, N
+'
+[TA 1] AFTER  READ rubric[1] = '2, E
+'
+[TA 1] BEFORE READ rubric[2] = '3, N
+'
+[TA 2] AFTER  READ rubric[1] = '2, E
+'
+[TA 2] BEFORE READ rubric[2] = '3, N
+'
+[TA 1] BEFORE WRITE rubric[3] change N -> O
+[TA 1] AFTER  WRITE rubric[3] saved
+[TA 1] AFTER  READ rubric[2] = '3, O
+'
+[TA 1] BEFORE READ rubric[3] = '4, O
+'
+[TA 3] BEFORE WRITE rubric[3] change O -> P
+[TA 3] AFTER  WRITE rubric[3] saved
+[TA 3] AFTER  READ rubric[2] = '3, P
+'
+[TA 3] BEFORE READ rubric[3] = '4, O
+'
+[TA 2] BEFORE WRITE rubric[3] change P -> Q
+[TA 2] AFTER  WRITE rubric[3] saved
+[TA 2] AFTER  READ rubric[2] = '3, Q
+'
+[TA 2] BEFORE READ rubric[3] = '4, O
+'
+[TA 3] BEFORE WRITE rubric[4] change O -> P
+[TA 3] AFTER  WRITE rubric[4] saved
+[TA 3] AFTER  READ rubric[3] = '4, P
+'
+[TA 3] BEFORE READ rubric[4] = '5, B
+'
+[TA 1] AFTER  READ rubric[3] = '4, P
+'
+[TA 1] BEFORE READ rubric[4] = '5, B
+'
+[TA 2] AFTER  READ rubric[3] = '4, P
+'
+[TA 2] BEFORE READ rubric[4] = '5, B
+'
+[TA 3] AFTER  READ rubric[4] = '5, B
+'
+[TA 3] BEFORE READ marked[0] = 0
+[TA 3] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 1] BEFORE WRITE rubric[5] change B -> C
+[TA 1] AFTER  WRITE rubric[5] saved
+[TA 1] AFTER  READ rubric[4] = '5, C
+'
+[TA 1] BEFORE READ marked[0] = 1
+[TA 1] BEFORE READ marked[1] = 0
+[TA 1] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 2] AFTER  READ rubric[4] = '5, C
+'
+[TA 2] BEFORE READ marked[0] = 1
+[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 3] Marked question 1 for student 1750[TA 3] BEFORE READ marked[1] = 1
+[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 0
+[TA 3] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 2] Marked question 3 for student 1750[TA 2] BEFORE READ marked[3] = 1
+[TA 2] BEFORE READ marked[4] = 0
+[TA 2] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 1] Marked question 2 for student 1750[TA 1] BEFORE READ marked[2] = 1
+[TA 1] BEFORE READ marked[3] = 1
+[TA 1] BEFORE READ marked[4] = 1
+[TA 1] BEFORE loading next exam (index=6)
+[COORD] BEFORE READ exam file 'exam8.txt' (index=7)
+[COORD] AFTER  READ loaded exam for student 1255 (index=7, gen=8)
+[TA 1] AFTER  loading exam (index=7)
+[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, H
+'
+[TA 3] Marked question 4 for student 1255[TA 3] BEFORE READ marked[4] = 0
+[TA 3] AFTER  WRITE marked[4] = 1, remaining=4
+[TA 1] AFTER  READ rubric[0] = '1, H
+'
+[TA 1] BEFORE READ rubric[1] = '2, E
+'
+[TA 1] BEFORE WRITE rubric[2] change E -> F
+[TA 1] AFTER  WRITE rubric[2] saved
+[TA 1] AFTER  READ rubric[1] = '2, F
+'
+[TA 1] BEFORE READ rubric[2] = '3, Q
+'
+[TA 1] AFTER  READ rubric[2] = '3, Q
+'
+[TA 1] BEFORE READ rubric[3] = '4, P
+'
+[TA 1] BEFORE WRITE rubric[4] change P -> Q
+[TA 1] AFTER  WRITE rubric[4] saved
+[TA 1] AFTER  READ rubric[3] = '4, Q
+'
+[TA 1] BEFORE READ rubric[4] = '5, C
+'
+[TA 1] AFTER  READ rubric[4] = '5, C
+'
+[TA 1] BEFORE READ marked[0] = 0
+[TA 1] AFTER  WRITE marked[0] = 1, remaining=3
+[TA 1] Marked question 1 for student 1255[TA 1] BEFORE READ marked[1] = 0
+[TA 1] AFTER  WRITE marked[1] = 1, remaining=2
+[TA 1] Marked question 2 for student 1255[TA 1] BEFORE READ marked[2] = 0
+[TA 1] AFTER  WRITE marked[2] = 1, remaining=1
+[TA 1] Marked question 3 for student 1255[TA 1] BEFORE READ marked[3] = 0
+[TA 1] AFTER  WRITE marked[3] = 1, remaining=0
+[TA 1] Marked question 4 for student 1255[TA 1] BEFORE READ marked[4] = 1
+[TA 1] BEFORE loading next exam (index=7)
+[COORD] BEFORE READ exam file 'exam9.txt' (index=8)
+[COORD] AFTER  READ loaded exam for student 1100 (index=8, gen=9)
+[TA 1] AFTER  loading exam (index=8)
+[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, H
+'
+[TA 2] Marked question 5 for student 1255[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, H
+'
+[TA 3] Marked question 5 for student 1255[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, H
+'
+[TA 2] AFTER  READ rubric[0] = '1, H
+'
+[TA 2] BEFORE READ rubric[1] = '2, F
+'
+[TA 3] AFTER  READ rubric[0] = '1, H
+'
+[TA 3] BEFORE READ rubric[1] = '2, F
+'
+[TA 1] AFTER  READ rubric[0] = '1, H
+'
+[TA 1] BEFORE READ rubric[1] = '2, F
+'
+[TA 3] AFTER  READ rubric[1] = '2, F
+'
+[TA 3] BEFORE READ rubric[2] = '3, Q
+'
+[TA 2] BEFORE WRITE rubric[2] change F -> G
+[TA 2] AFTER  WRITE rubric[2] saved
+[TA 2] AFTER  READ rubric[1] = '2, G
+'
+[TA 2] BEFORE READ rubric[2] = '3, Q
+'
+[TA 1] AFTER  READ rubric[1] = '2, G
+'
+[TA 1] BEFORE READ rubric[2] = '3, Q
+'
+[TA 3] AFTER  READ rubric[2] = '3, Q
+'
+[TA 3] BEFORE READ rubric[3] = '4, Q
+'
+[TA 1] BEFORE WRITE rubric[3] change Q -> R
+[TA 1] AFTER  WRITE rubric[3] saved
+[TA 1] AFTER  READ rubric[2] = '3, R
+'
+[TA 1] BEFORE READ rubric[3] = '4, Q
+'
+[TA 3] AFTER  READ rubric[3] = '4, Q
+'
+[TA 3] BEFORE READ rubric[4] = '5, C
+'
+[TA 2] AFTER  READ rubric[2] = '3, R
+'
+[TA 2] BEFORE READ rubric[3] = '4, Q
+'
+[TA 1] AFTER  READ rubric[3] = '4, Q
+'
+[TA 1] BEFORE READ rubric[4] = '5, C
+'
+[TA 3] AFTER  READ rubric[4] = '5, C
+'
+[TA 3] BEFORE READ marked[0] = 0
+[TA 3] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 2] BEFORE WRITE rubric[4] change Q -> R
+[TA 2] AFTER  WRITE rubric[4] saved
+[TA 2] AFTER  READ rubric[3] = '4, R
+'
+[TA 2] BEFORE READ rubric[4] = '5, C
+'
+[TA 1] AFTER  READ rubric[4] = '5, C
+'
+[TA 1] BEFORE READ marked[0] = 1
+[TA 1] BEFORE READ marked[1] = 0
+[TA 1] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 2] AFTER  READ rubric[4] = '5, C
+'
+[TA 2] BEFORE READ marked[0] = 1
+[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 3] Marked question 1 for student 1100[TA 3] BEFORE READ marked[1] = 1
+[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 0
+[TA 3] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 2] Marked question 3 for student 1100[TA 2] BEFORE READ marked[3] = 1
+[TA 2] BEFORE READ marked[4] = 0
+[TA 2] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 3] Marked question 4 for student 1100[TA 3] BEFORE READ marked[4] = 1
+[TA 3] BEFORE loading next exam (index=8)
+[COORD] BEFORE READ exam file 'exam10.txt' (index=9)
+[COORD] AFTER  READ loaded exam for student 7852 (index=9, gen=10)
+[TA 3] AFTER  loading exam (index=9)
+[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, H
+'
+[TA 1] Marked question 2 for student 7852[TA 1] BEFORE READ marked[2] = 0
+[TA 1] AFTER  WRITE marked[2] = 1, remaining=4
+[TA 3] AFTER  READ rubric[0] = '1, H
+'
+[TA 3] BEFORE READ rubric[1] = '2, G
+'
+[TA 3] BEFORE WRITE rubric[2] change G -> H
+[TA 3] AFTER  WRITE rubric[2] saved
+[TA 3] AFTER  READ rubric[1] = '2, H
+'
+[TA 3] BEFORE READ rubric[2] = '3, R
+'
+[TA 1] Marked question 3 for student 7852[TA 1] BEFORE READ marked[3] = 0
+[TA 1] AFTER  WRITE marked[3] = 1, remaining=3
+[TA 3] AFTER  READ rubric[2] = '3, R
+'
+[TA 3] BEFORE READ rubric[3] = '4, R
+'
+[TA 3] BEFORE WRITE rubric[4] change R -> S
+[TA 3] AFTER  WRITE rubric[4] saved
+[TA 3] AFTER  READ rubric[3] = '4, S
+'
+[TA 3] BEFORE READ rubric[4] = '5, C
+'
+[TA 1] Marked question 4 for student 7852[TA 1] BEFORE READ marked[4] = 0
+[TA 1] AFTER  WRITE marked[4] = 1, remaining=2
+[TA 3] AFTER  READ rubric[4] = '5, C
+'
+[TA 3] BEFORE READ marked[0] = 0
+[TA 3] AFTER  WRITE marked[0] = 1, remaining=1
+[TA 3] Marked question 1 for student 7852[TA 3] BEFORE READ marked[1] = 0
+[TA 3] AFTER  WRITE marked[1] = 1, remaining=0
+[TA 3] Marked question 2 for student 7852[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 1
+[TA 3] BEFORE READ marked[4] = 1
+[TA 3] BEFORE loading next exam (index=9)
+[COORD] BEFORE READ exam file 'exam11.txt' (index=10)
+[COORD] AFTER  READ loaded exam for student 9621 (index=10, gen=11)
+[TA 3] AFTER  loading exam (index=10)
+[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, H
+'
+[TA 1] Marked question 5 for student 7852[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, H
+'
+[TA 2] Marked question 5 for student 7852[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, H
+'
+[TA 3] AFTER  READ rubric[0] = '1, H
+'
+[TA 3] BEFORE READ rubric[1] = '2, H
+'
+[TA 2] AFTER  READ rubric[0] = '1, H
+'
+[TA 2] BEFORE READ rubric[1] = '2, H
+'
+[TA 1] AFTER  READ rubric[0] = '1, H
+'
+[TA 1] BEFORE READ rubric[1] = '2, H
+'
+[TA 3] AFTER  READ rubric[1] = '2, H
+'
+[TA 3] BEFORE READ rubric[2] = '3, R
+'
+[TA 2] AFTER  READ rubric[1] = '2, H
+'
+[TA 2] BEFORE READ rubric[2] = '3, R
+'
+[TA 1] AFTER  READ rubric[1] = '2, H
+'
+[TA 1] BEFORE READ rubric[2] = '3, R
+'
+[TA 3] AFTER  READ rubric[2] = '3, R
+'
+[TA 3] BEFORE READ rubric[3] = '4, S
+'
+[TA 2] AFTER  READ rubric[2] = '3, R
+'
+[TA 2] BEFORE READ rubric[3] = '4, S
+'
+[TA 2] AFTER  READ rubric[3] = '4, S
+'
+[TA 2] BEFORE READ rubric[4] = '5, C
+'
+[TA 1] AFTER  READ rubric[2] = '3, R
+'
+[TA 1] BEFORE READ rubric[3] = '4, S
+'
+[TA 3] AFTER  READ rubric[3] = '4, S
+'
+[TA 3] BEFORE READ rubric[4] = '5, C
+'
+[TA 1] AFTER  READ rubric[3] = '4, S
+'
+[TA 1] BEFORE READ rubric[4] = '5, C
+'
+[TA 2] AFTER  READ rubric[4] = '5, C
+'
+[TA 2] BEFORE READ marked[0] = 0
+[TA 2] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 3] BEFORE WRITE rubric[5] change C -> D
+[TA 3] AFTER  WRITE rubric[5] saved
+[TA 3] AFTER  READ rubric[4] = '5, D
+'
+[TA 3] BEFORE READ marked[0] = 1
+[TA 3] BEFORE READ marked[1] = 0
+[TA 3] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 1] BEFORE WRITE rubric[5] change D -> E
+[TA 1] AFTER  WRITE rubric[5] saved
+[TA 1] AFTER  READ rubric[4] = '5, E
+'
+[TA 1] BEFORE READ marked[0] = 1
+[TA 1] BEFORE READ marked[1] = 1
+[TA 1] BEFORE READ marked[2] = 0
+[TA 1] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 2] Marked question 1 for student 9621[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 1
+[TA 2] BEFORE READ marked[3] = 0
+[TA 2] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 3] Marked question 2 for student 9621[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 1
+[TA 3] BEFORE READ marked[4] = 0
+[TA 3] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 1] Marked question 3 for student 9621[TA 1] BEFORE READ marked[3] = 1
+[TA 1] BEFORE READ marked[4] = 1
+[TA 1] BEFORE loading next exam (index=10)
+[COORD] BEFORE READ exam file 'exam12.txt' (index=11)
+[COORD] AFTER  READ loaded exam for student 2341 (index=11, gen=12)
+[TA 1] AFTER  loading exam (index=11)
+[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, H
+'
+[TA 1] AFTER  READ rubric[0] = '1, H
+'
+[TA 1] BEFORE READ rubric[1] = '2, H
+'
+[TA 2] Marked question 4 for student 2341[TA 2] BEFORE READ marked[4] = 0
+[TA 2] AFTER  WRITE marked[4] = 1, remaining=4
+[TA 1] AFTER  READ rubric[1] = '2, H
+'
+[TA 1] BEFORE READ rubric[2] = '3, R
+'
+[TA 1] BEFORE WRITE rubric[3] change R -> S
+[TA 1] AFTER  WRITE rubric[3] saved
+[TA 1] AFTER  READ rubric[2] = '3, S
+'
+[TA 1] BEFORE READ rubric[3] = '4, S
+'
+[TA 1] BEFORE WRITE rubric[4] change S -> T
+[TA 1] AFTER  WRITE rubric[4] saved
+[TA 1] AFTER  READ rubric[3] = '4, T
+'
+[TA 1] BEFORE READ rubric[4] = '5, E
+'
+[TA 1] AFTER  READ rubric[4] = '5, E
+'
+[TA 1] BEFORE READ marked[0] = 0
+[TA 1] AFTER  WRITE marked[0] = 1, remaining=3
+[TA 1] Marked question 1 for student 2341[TA 1] BEFORE READ marked[1] = 0
+[TA 1] AFTER  WRITE marked[1] = 1, remaining=2
+[TA 1] Marked question 2 for student 2341[TA 1] BEFORE READ marked[2] = 0
+[TA 1] AFTER  WRITE marked[2] = 1, remaining=1
+[TA 1] Marked question 3 for student 2341[TA 1] BEFORE READ marked[3] = 0
+[TA 1] AFTER  WRITE marked[3] = 1, remaining=0
+[TA 1] Marked question 4 for student 2341[TA 1] BEFORE READ marked[4] = 1
+[TA 1] BEFORE loading next exam (index=11)
+[COORD] BEFORE READ exam file 'exam13.txt' (index=12)
+[COORD] AFTER  READ loaded exam for student 7441 (index=12, gen=13)
+[TA 1] AFTER  loading exam (index=12)
+[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, H
+'
+[TA 2] Marked question 5 for student 2341[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, H
+'
+[TA 3] Marked question 5 for student 2341[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, H
+'
+[TA 1] BEFORE WRITE rubric[1] change H -> I
+[TA 1] AFTER  WRITE rubric[1] saved
+[TA 1] AFTER  READ rubric[0] = '1, I
+'
+[TA 1] BEFORE READ rubric[1] = '2, H
+'
+[TA 2] AFTER  READ rubric[0] = '1, I
+'
+[TA 2] BEFORE READ rubric[1] = '2, H
+'
+[TA 3] BEFORE WRITE rubric[1] change I -> J
+[TA 3] AFTER  WRITE rubric[1] saved
+[TA 3] AFTER  READ rubric[0] = '1, J
+'
+[TA 3] BEFORE READ rubric[1] = '2, H
+'
+[TA 1] BEFORE WRITE rubric[2] change H -> I
+[TA 1] AFTER  WRITE rubric[2] saved
+[TA 1] AFTER  READ rubric[1] = '2, I
+'
+[TA 1] BEFORE READ rubric[2] = '3, S
+'
+[TA 2] AFTER  READ rubric[1] = '2, I
+'
+[TA 2] BEFORE READ rubric[2] = '3, S
+'
+[TA 3] AFTER  READ rubric[1] = '2, I
+'
+[TA 3] BEFORE READ rubric[2] = '3, S
+'
+[TA 1] AFTER  READ rubric[2] = '3, S
+'
+[TA 1] BEFORE READ rubric[3] = '4, T
+'
+[TA 2] AFTER  READ rubric[2] = '3, S
+'
+[TA 2] BEFORE READ rubric[3] = '4, T
+'
+[TA 3] AFTER  READ rubric[2] = '3, S
+'
+[TA 3] BEFORE READ rubric[3] = '4, T
+'
+[TA 1] AFTER  READ rubric[3] = '4, T
+'
+[TA 1] BEFORE READ rubric[4] = '5, E
+'
+[TA 3] AFTER  READ rubric[3] = '4, T
+'
+[TA 3] BEFORE READ rubric[4] = '5, E
+'
+[TA 2] AFTER  READ rubric[3] = '4, T
+'
+[TA 2] BEFORE READ rubric[4] = '5, E
+'
+[TA 1] BEFORE WRITE rubric[5] change E -> F
+[TA 1] AFTER  WRITE rubric[5] saved
+[TA 1] AFTER  READ rubric[4] = '5, F
+'
+[TA 1] BEFORE READ marked[0] = 0
+[TA 1] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 3] AFTER  READ rubric[4] = '5, F
+'
+[TA 3] BEFORE READ marked[0] = 1
+[TA 3] BEFORE READ marked[1] = 0
+[TA 3] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 2] AFTER  READ rubric[4] = '5, F
+'
+[TA 2] BEFORE READ marked[0] = 1
+[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 1] Marked question 1 for student 7441[TA 1] BEFORE READ marked[1] = 1
+[TA 1] BEFORE READ marked[2] = 1
+[TA 1] BEFORE READ marked[3] = 0
+[TA 1] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 2] Marked question 3 for student 7441[TA 2] BEFORE READ marked[3] = 1
+[TA 2] BEFORE READ marked[4] = 0
+[TA 2] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 3] Marked question 2 for student 7441[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 1
+[TA 3] BEFORE READ marked[4] = 1
+[TA 3] BEFORE loading next exam (index=12)
+[COORD] BEFORE READ exam file 'exam14.txt' (index=13)
+[COORD] AFTER  READ loaded exam for student 5330 (index=13, gen=14)
+[TA 3] AFTER  loading exam (index=13)
+[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, J
+'
+[TA 3] AFTER  READ rubric[0] = '1, J
+'
+[TA 3] BEFORE READ rubric[1] = '2, I
+'
+[TA 1] Marked question 4 for student 5330[TA 1] BEFORE READ marked[4] = 0
+[TA 1] AFTER  WRITE marked[4] = 1, remaining=4
+[TA 3] AFTER  READ rubric[1] = '2, I
+'
+[TA 3] BEFORE READ rubric[2] = '3, S
+'
+[TA 3] AFTER  READ rubric[2] = '3, S
+'
+[TA 3] BEFORE READ rubric[3] = '4, T
+'
+[TA 3] AFTER  READ rubric[3] = '4, T
+'
+[TA 3] BEFORE READ rubric[4] = '5, F
+'
+[TA 3] BEFORE WRITE rubric[5] change F -> G
+[TA 3] AFTER  WRITE rubric[5] saved
+[TA 3] AFTER  READ rubric[4] = '5, G
+'
+[TA 3] BEFORE READ marked[0] = 0
+[TA 3] AFTER  WRITE marked[0] = 1, remaining=3
+[TA 3] Marked question 1 for student 5330[TA 3] BEFORE READ marked[1] = 0
+[TA 3] AFTER  WRITE marked[1] = 1, remaining=2
+[TA 3] Marked question 2 for student 5330[TA 3] BEFORE READ marked[2] = 0
+[TA 3] AFTER  WRITE marked[2] = 1, remaining=1
+[TA 3] Marked question 3 for student 5330[TA 3] BEFORE READ marked[3] = 0
+[TA 3] AFTER  WRITE marked[3] = 1, remaining=0
+[TA 3] Marked question 4 for student 5330[TA 3] BEFORE READ marked[4] = 1
+[TA 3] BEFORE loading next exam (index=13)
+[COORD] BEFORE READ exam file 'exam15.txt' (index=14)
+[COORD] AFTER  READ loaded exam for student 8002 (index=14, gen=15)
+[TA 3] AFTER  loading exam (index=14)
+[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, J
+'
+[TA 2] Marked question 5 for student 5330[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, J
+'
+[TA 1] Marked question 5 for student 5330[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, J
+'
+[TA 3] BEFORE WRITE rubric[1] change J -> K
+[TA 3] AFTER  WRITE rubric[1] saved
+[TA 3] AFTER  READ rubric[0] = '1, K
+'
+[TA 3] BEFORE READ rubric[1] = '2, I
+'
+[TA 1] BEFORE WRITE rubric[1] change K -> L
+[TA 1] AFTER  WRITE rubric[1] saved
+[TA 1] AFTER  READ rubric[0] = '1, L
+'
+[TA 1] BEFORE READ rubric[1] = '2, I
+'
+[TA 2] AFTER  READ rubric[0] = '1, L
+'
+[TA 2] BEFORE READ rubric[1] = '2, I
+'
+[TA 1] BEFORE WRITE rubric[2] change I -> J
+[TA 1] AFTER  WRITE rubric[2] saved
+[TA 1] AFTER  READ rubric[1] = '2, J
+'
+[TA 1] BEFORE READ rubric[2] = '3, S
+'
+[TA 3] AFTER  READ rubric[1] = '2, J
+'
+[TA 3] BEFORE READ rubric[2] = '3, S
+'
+[TA 2] AFTER  READ rubric[1] = '2, J
+'
+[TA 2] BEFORE READ rubric[2] = '3, S
+'
+[TA 1] AFTER  READ rubric[2] = '3, S
+'
+[TA 1] BEFORE READ rubric[3] = '4, T
+'
+[TA 3] AFTER  READ rubric[2] = '3, S
+'
+[TA 3] BEFORE READ rubric[3] = '4, T
+'
+[TA 2] BEFORE WRITE rubric[3] change S -> T
+[TA 2] AFTER  WRITE rubric[3] saved
+[TA 2] AFTER  READ rubric[2] = '3, T
+'
+[TA 2] BEFORE READ rubric[3] = '4, T
+'
+[TA 1] AFTER  READ rubric[3] = '4, T
+'
+[TA 1] BEFORE READ rubric[4] = '5, G
+'
+[TA 3] BEFORE WRITE rubric[4] change T -> U
+[TA 3] AFTER  WRITE rubric[4] saved
+[TA 3] AFTER  READ rubric[3] = '4, U
+'
+[TA 3] BEFORE READ rubric[4] = '5, G
+'
+[TA 2] AFTER  READ rubric[3] = '4, U
+'
+[TA 2] BEFORE READ rubric[4] = '5, G
+'
+[TA 1] AFTER  READ rubric[4] = '5, G
+'
+[TA 1] BEFORE READ marked[0] = 0
+[TA 1] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 3] AFTER  READ rubric[4] = '5, G
+'
+[TA 3] BEFORE READ marked[0] = 1
+[TA 3] BEFORE READ marked[1] = 0
+[TA 3] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 2] AFTER  READ rubric[4] = '5, G
+'
+[TA 2] BEFORE READ marked[0] = 1
+[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 1] Marked question 1 for student 8002[TA 1] BEFORE READ marked[1] = 1
+[TA 1] BEFORE READ marked[2] = 1
+[TA 1] BEFORE READ marked[3] = 0
+[TA 1] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 3] Marked question 2 for student 8002[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 1
+[TA 3] BEFORE READ marked[4] = 0
+[TA 3] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 2] Marked question 3 for student 8002[TA 2] BEFORE READ marked[3] = 1
+[TA 2] BEFORE READ marked[4] = 1
+[TA 2] BEFORE loading next exam (index=14)
+[COORD] BEFORE READ exam file 'exam16.txt' (index=15)
+[COORD] AFTER  READ loaded exam for student 6699 (index=15, gen=16)
+[TA 2] AFTER  loading exam (index=15)
+[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, L
+'
+[TA 1] Marked question 4 for student 6699[TA 1] BEFORE READ marked[4] = 0
+[TA 1] AFTER  WRITE marked[4] = 1, remaining=4
+[TA 2] AFTER  READ rubric[0] = '1, L
+'
+[TA 2] BEFORE READ rubric[1] = '2, J
+'
+[TA 2] AFTER  READ rubric[1] = '2, J
+'
+[TA 2] BEFORE READ rubric[2] = '3, T
+'
+[TA 2] AFTER  READ rubric[2] = '3, T
+'
+[TA 2] BEFORE READ rubric[3] = '4, U
+'
+[TA 2] AFTER  READ rubric[3] = '4, U
+'
+[TA 2] BEFORE READ rubric[4] = '5, G
+'
+[TA 2] AFTER  READ rubric[4] = '5, G
+'
+[TA 2] BEFORE READ marked[0] = 0
+[TA 2] AFTER  WRITE marked[0] = 1, remaining=3
+[TA 2] Marked question 1 for student 6699[TA 2] BEFORE READ marked[1] = 0
+[TA 2] AFTER  WRITE marked[1] = 1, remaining=2
+[TA 2] Marked question 2 for student 6699[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=1
+[TA 2] Marked question 3 for student 6699[TA 2] BEFORE READ marked[3] = 0
+[TA 2] AFTER  WRITE marked[3] = 1, remaining=0
+[TA 2] Marked question 4 for student 6699[TA 2] BEFORE READ marked[4] = 1
+[TA 2] BEFORE loading next exam (index=15)
+[COORD] BEFORE READ exam file 'exam17.txt' (index=16)
+[COORD] AFTER  READ loaded exam for student 6767 (index=16, gen=17)
+[TA 2] AFTER  loading exam (index=16)
+[TA 2] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, L
+'
+[TA 1] Marked question 5 for student 6699[TA 1] Checking rubric...
+[TA 1] BEFORE READ rubric[0] = '1, L
+'
+[TA 3] Marked question 5 for student 6699[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, L
+'
+[TA 1] BEFORE WRITE rubric[1] change L -> M
+[TA 1] AFTER  WRITE rubric[1] saved
+[TA 1] AFTER  READ rubric[0] = '1, M
+'
+[TA 1] BEFORE READ rubric[1] = '2, J
+'
+[TA 2] BEFORE WRITE rubric[1] change M -> N
+[TA 3] AFTER  READ rubric[0] = '1, N
+'
+[TA 3] BEFORE READ rubric[1] = '2, J
+'
+[TA 2] AFTER  WRITE rubric[1] saved
+[TA 2] AFTER  READ rubric[0] = '1, N
+'
+[TA 2] BEFORE READ rubric[1] = '2, J
+'
+[TA 1] AFTER  READ rubric[1] = '2, J
+'
+[TA 1] BEFORE READ rubric[2] = '3, T
+'
+[TA 3] BEFORE WRITE rubric[2] change J -> K
+[TA 2] AFTER  READ rubric[1] = '2, K
+'
+[TA 2] BEFORE READ rubric[2] = '3, T
+'
+[TA 3] AFTER  WRITE rubric[2] saved
+[TA 3] AFTER  READ rubric[1] = '2, K
+'
+[TA 3] BEFORE READ rubric[2] = '3, T
+'
+[TA 1] AFTER  READ rubric[2] = '3, T
+'
+[TA 1] BEFORE READ rubric[3] = '4, U
+'
+[TA 2] AFTER  READ rubric[2] = '3, T
+'
+[TA 2] BEFORE READ rubric[3] = '4, U
+'
+[TA 3] AFTER  READ rubric[2] = '3, T
+'
+[TA 3] BEFORE READ rubric[3] = '4, U
+'
+[TA 3] AFTER  READ rubric[3] = '4, U
+'
+[TA 3] BEFORE READ rubric[4] = '5, G
+'
+[TA 2] BEFORE WRITE rubric[4] change U -> V
+[TA 2] AFTER  WRITE rubric[4] saved
+[TA 2] AFTER  READ rubric[3] = '4, V
+'
+[TA 2] BEFORE READ rubric[4] = '5, G
+'
+[TA 1] AFTER  READ rubric[3] = '4, V
+'
+[TA 1] BEFORE READ rubric[4] = '5, G
+'
+[TA 3] AFTER  READ rubric[4] = '5, G
+'
+[TA 3] BEFORE READ marked[0] = 0
+[TA 3] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 1] AFTER  READ rubric[4] = '5, G
+'
+[TA 1] BEFORE READ marked[0] = 1
+[TA 1] BEFORE READ marked[1] = 0
+[TA 1] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 2] BEFORE WRITE rubric[5] change G -> H
+[TA 2] AFTER  WRITE rubric[5] saved
+[TA 2] AFTER  READ rubric[4] = '5, H
+'
+[TA 2] BEFORE READ marked[0] = 1
+[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 2] Marked question 3 for student 6767[TA 2] BEFORE READ marked[3] = 0
+[TA 2] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 1] Marked question 2 for student 6767[TA 1] BEFORE READ marked[2] = 1
+[TA 1] BEFORE READ marked[3] = 1
+[TA 1] BEFORE READ marked[4] = 0
+[TA 1] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 3] Marked question 1 for student 6767[TA 3] BEFORE READ marked[1] = 1
+[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 1
+[TA 3] BEFORE READ marked[4] = 1
+[TA 3] BEFORE loading next exam (index=16)
+[COORD] BEFORE READ exam file 'exam18.txt' (index=17)
+[COORD] AFTER  READ loaded exam for student 6967 (index=17, gen=18)
+[TA 3] AFTER  loading exam (index=17)
+[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, N
+'
+[TA 3] BEFORE WRITE rubric[1] change N -> O
+[TA 3] AFTER  WRITE rubric[1] saved
+[TA 3] AFTER  READ rubric[0] = '1, O
+'
+[TA 3] BEFORE READ rubric[1] = '2, K
+'
+[TA 2] Marked question 4 for student 6967[TA 2] BEFORE READ marked[4] = 0
+[TA 2] AFTER  WRITE marked[4] = 1, remaining=4
+[TA 3] BEFORE WRITE rubric[2] change K -> L
+[TA 3] AFTER  WRITE rubric[2] saved
+[TA 3] AFTER  READ rubric[1] = '2, L
+'
+[TA 3] BEFORE READ rubric[2] = '3, T
+'
+[TA 3] AFTER  READ rubric[2] = '3, T
+'
+[TA 3] BEFORE READ rubric[3] = '4, V
+'
+[TA 3] AFTER  READ rubric[3] = '4, V
+'
+[TA 3] BEFORE READ rubric[4] = '5, H
+'
+[TA 3] AFTER  READ rubric[4] = '5, H
+'
+[TA 3] BEFORE READ marked[0] = 0
+[TA 3] AFTER  WRITE marked[0] = 1, remaining=3
+[TA 3] Marked question 1 for student 6967[TA 3] BEFORE READ marked[1] = 0
+[TA 3] AFTER  WRITE marked[1] = 1, remaining=2
+[TA 3] Marked question 2 for student 6967[TA 3] BEFORE READ marked[2] = 0
+[TA 3] AFTER  WRITE marked[2] = 1, remaining=1
+[TA 3] Marked question 3 for student 6967[TA 3] BEFORE READ marked[3] = 0
+[TA 3] AFTER  WRITE marked[3] = 1, remaining=0
+[TA 3] Marked question 4 for student 6967[TA 3] BEFORE READ marked[4] = 1
+[TA 3] BEFORE loading next exam (index=17)
+[COORD] BEFORE READ exam file 'exam19.txt' (index=18)
+[COORD] AFTER  READ loaded exam for student 1234 (index=18, gen=19)
+[TA 3] AFTER  loading exam (index=18)
+[TA 3] Checking rubric...
+[TA 3] BEFORE READ rubric[0] = '1, O
+'
+[TA 2] Marked question 5 for student 6967[TA 2] Checking rubric...
+[TA 1] Marked question 5 for student 6967[TA 1] Checking rubric...
+[TA 2] BEFORE READ rubric[0] = '1, O
+'
+[TA 1] BEFORE READ rubric[0] = '1, O
+'
+[TA 3] AFTER  READ rubric[0] = '1, O
+'
+[TA 3] BEFORE READ rubric[1] = '2, L
+'
+[TA 1] AFTER  READ rubric[0] = '1, O
+'
+[TA 1] BEFORE READ rubric[1] = '2, L
+'
+[TA 2] AFTER  READ rubric[0] = '1, O
+'
+[TA 2] BEFORE READ rubric[1] = '2, L
+'
+[TA 3] AFTER  READ rubric[1] = '2, L
+'
+[TA 3] BEFORE READ rubric[2] = '3, T
+'
+[TA 2] BEFORE WRITE rubric[2] change L -> M
+[TA 2] AFTER  WRITE rubric[2] saved
+[TA 2] AFTER  READ rubric[1] = '2, M
+'
+[TA 2] BEFORE READ rubric[2] = '3, T
+'
+[TA 1] AFTER  READ rubric[1] = '2, M
+'
+[TA 1] BEFORE READ rubric[2] = '3, T
+'
+[TA 2] AFTER  READ rubric[2] = '3, T
+'
+[TA 2] BEFORE READ rubric[3] = '4, V
+'
+[TA 3] BEFORE WRITE rubric[3] change T -> U
+[TA 3] AFTER  WRITE rubric[3] saved
+[TA 3] AFTER  READ rubric[2] = '3, U
+'
+[TA 3] BEFORE READ rubric[3] = '4, V
+'
+[TA 1] AFTER  READ rubric[2] = '3, U
+'
+[TA 1] BEFORE READ rubric[3] = '4, V
+'
+[TA 3] AFTER  READ rubric[3] = '4, V
+'
+[TA 3] BEFORE READ rubric[4] = '5, H
+'
+[TA 1] AFTER  READ rubric[3] = '4, V
+'
+[TA 1] BEFORE READ rubric[4] = '5, H
+'
+[TA 2] AFTER  READ rubric[3] = '4, V
+'
+[TA 2] BEFORE READ rubric[4] = '5, H
+'
+[TA 3] AFTER  READ rubric[4] = '5, H
+'
+[TA 3] BEFORE READ marked[0] = 0
+[TA 3] AFTER  WRITE marked[0] = 1, remaining=4
+[TA 1] AFTER  READ rubric[4] = '5, H
+'
+[TA 1] BEFORE READ marked[0] = 1
+[TA 1] BEFORE READ marked[1] = 0
+[TA 1] AFTER  WRITE marked[1] = 1, remaining=3
+[TA 2] AFTER  READ rubric[4] = '5, H
+'
+[TA 2] BEFORE READ marked[0] = 1
+[TA 2] BEFORE READ marked[1] = 1
+[TA 2] BEFORE READ marked[2] = 0
+[TA 2] AFTER  WRITE marked[2] = 1, remaining=2
+[TA 3] Marked question 1 for student 1234[TA 3] BEFORE READ marked[1] = 1
+[TA 3] BEFORE READ marked[2] = 1
+[TA 3] BEFORE READ marked[3] = 0
+[TA 3] AFTER  WRITE marked[3] = 1, remaining=1
+[TA 2] Marked question 3 for student 1234[TA 2] BEFORE READ marked[3] = 1
+[TA 2] BEFORE READ marked[4] = 0
+[TA 2] AFTER  WRITE marked[4] = 1, remaining=0
+[TA 1] Marked question 2 for student 1234[TA 1] BEFORE READ marked[2] = 1
+[TA 1] BEFORE READ marked[3] = 1
+[TA 1] BEFORE READ marked[4] = 1
+[TA 1] BEFORE loading next exam (index=18)
+[COORD] BEFORE READ exam file 'exam20.txt' (index=19)
+[COORD] AFTER  READ loaded exam for student 9999 (index=19, gen=20)
+[COORD] Sentinel exam (9999) detected. Signaling termination.
+[TA 1] AFTER  loading exam (index=19)
+[TA 1] Termination signal received. Exiting.
+[TA 3] Marked question 4 for student 9999[TA 3] BEFORE READ marked[4] = 0
+[TA 3] AFTER  WRITE marked[4] = 1, remaining=4
+[TA 2] Marked question 5 for student 9999[TA 2] Termination signal received. Exiting.
+[TA 3] Marked question 5 for student 9999[TA 3] Termination signal received. Exiting.
